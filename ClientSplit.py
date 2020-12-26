@@ -4,38 +4,8 @@ Python 3.9
 IDE: IntelliJ
 Nov. 20, 2020
 """
-
-client_list = ['BGL',
-               'BUTZ',
-               'CANDD',
-               'CANDT',
-               'CANTEX',
-               'CENSYN',
-               'CRYE-LIEKE',
-               'CUWI',
-               'EAMC3',
-               'EOC',
-               'GLRM',
-               'HPM',
-               'JKV',
-               'LAKEU',
-               'LIGHTFOOT',
-               'LP',
-               'MANDK',
-               'MBHB',
-               'MTMARY',
-               'OLN',
-               'PROGENITY',
-               'RREOU',
-               'SDF',
-               'SNG',
-               'SUSMAN',
-               'THEO',
-               'THOMCOB',
-               'TM',
-               'UB',
-               'WBK',
-               ]
+# List does not contain contents
+client_list = []
 
 
 # Chunking Function
