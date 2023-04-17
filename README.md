@@ -1,6 +1,5 @@
 # ClientSplit
 Made this python script for a network security company that would split their clients with workers which was an upgrade from the traditional white board.
-The final_item variable should always equal the last item in the client_list variable.
-The client_list has been unfilled for your convenience.
 
+All you need is the script ClientSplit.py however, this is my showcase of the finished app by the time I left the company.
 Enjoy the script.
